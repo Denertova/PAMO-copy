@@ -1,2 +1,2 @@
 # Zjazd 1
-[ex1.md](ex1/ex1.md)
+[Zjazd1.md](app/src/main/java/com/example/HealthApp/Zjazd1.md)

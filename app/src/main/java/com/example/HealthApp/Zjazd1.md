@@ -1,12 +1,12 @@
 # Ekran Startowy
-![Ekran startowy.png](app/src/main/java/com/example/HealthApp/assets/Ekran%20startowy.png)
+![Ekran startowy.png](assets/Ekran startowy.png)
 
 # Menu
-![Menu.png](app/src/main/java/com/example/HealthApp/assets/Menu.png)
+![Menu.png](assets/Menu.png)
 
 # BMI
-![BMI.png](app/src/main/java/com/example/HealthApp/assets/BMI.png)
+![BMI.png](assets/BMI.png)
 
 # Licznik Kalorii
-![Licznik kalorii pusty.png](app/src/main/java/com/example/HealthApp/assets/Licznik%20kalorii%20pusty.png)
-![Licznik kalorii.png](app/src/main/java/com/example/HealthApp/assets/Licznik%20kalorii.png)
+![Licznik kalorii pusty.png](assets/Licznik kalorii pusty.png)
+![Licznik kalorii.png](assets/Licznik kalorii.png)
