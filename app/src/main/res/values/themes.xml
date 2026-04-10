@@ -1,0 +1,6 @@
+<resources>
+    <style name="Base.Theme.Ex1" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Ex1" parent="Base.Theme.Ex1" />
+</resources>
