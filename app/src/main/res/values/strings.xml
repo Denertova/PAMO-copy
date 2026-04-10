@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="oblicz">Oblicz</string>
+    <string name="wzrost_cm">Wzrost (cm)</string>
+    <string name="waga_kg">Waga (kg)</string>
+    <string name="wiek">Wiek</string>
+    <string name="go_to_menu">Go to Menu</string>
+    <string name="health_app">Health App</string>
+    <string-array name="activity_levels">
+        <item>Brak aktywności</item>
+        <item>Lekka</item>
+        <item>Średnia</item>
+        <item>Duża</item>
+    </string-array>
+</resources>
