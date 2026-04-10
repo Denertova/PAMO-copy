@@ -1,5 +1,5 @@
 # Ekran Startowy
-![Ekran startowy.png](assets/Ekran startowy.png)
+![Ekran startowy.png](assets/Ekran%20startowy.png)
 
 # Menu
 ![Menu.png](assets/Menu.png)
