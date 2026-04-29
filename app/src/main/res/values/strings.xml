@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Helfi</string>
+    <string name="oblicz">Oblicz</string>
+    <string name="wzrost_cm">Wzrost (cm)</string>
+    <string name="waga_kg">Waga (kg)</string>
+    <string name="wiek">Wiek</string>
+    <string name="go_to_menu">Wróć do menu</string>
+    <string name="helfi">Helfi</string>
+    <string name="menu_title">Menu</string>
+    <string name="bmi_description">Oblicz swój wskaźnik masy ciała</string>
+    <string name="calories_title">Zapotrzebowanie</string>
+    <string name="calories_description">Sprawdź swoje zapotrzebowanie</string>
+    <string name="activity_level_hint">Poziom aktywności</string>
+    <string name="shopping_list_title">Lista zakupów</string>
+    <string name="shopping_meal">Przygotuj sałatkę proteinową</string>
+    <string name="shopping_button">Lista zakupów</string>
+    <string name="welcome_subtitle">Twoja droga do zdrowia</string>
+    <string name="btn_start">Rozpocznij</string>
+    <string name="bmi">BMI</string>
+
+    <string-array name="activity_levels">
+        <item>Brak aktywności</item>
+        <item>Lekka</item>
+        <item>Średnia</item>
+        <item>Duża</item>
+    </string-array>
+</resources>
