@@ -17,5 +17,11 @@ public class MenuActivity extends AppCompatActivity {
 
         findViewById(R.id.btnCalories).setOnClickListener(v ->
                 startActivity(new Intent(this, CaloriesActivity.class)));
+
+        findViewById(R.id.btnChart).setOnClickListener(v ->
+                startActivity(new Intent(this, BMIChartActivity.class)));
+
+        findViewById(R.id.btnShoppingList).setOnClickListener(v ->
+                startActivity(new Intent(this, ShoppingListActivity.class)));
     }
 }

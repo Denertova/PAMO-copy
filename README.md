@@ -47,3 +47,55 @@
 ![Licznik-Kalorii.png](assets/Licznik-Kalorii.png)
 
 </details>
+
+## Zadanie 2
+
+# Wykres BMI
+
+<details>
+
+<summary>Wykres BMI</summary>
+
+![Wykres-BMI.png](assets/Wykres-BMI.png)
+
+</details>
+
+# Lista Zakupów
+
+<details>
+
+<summary>Lista</summary>
+
+![Lista.png](assets/Lista.png)
+
+</details>
+
+# Raport Stary
+
+<details>
+
+<summary>Raport Stary</summary>
+
+![Raport-Stary.png](assets/Raport-Stary.png)
+
+</details>
+
+# Raport Nowy
+
+<details>
+
+<summary>Raport Nowy</summary>
+
+![Raport-Nowy.png](assets/Raport-Nowy.png)
+
+</details>
+
+# Monkey
+
+<details>
+
+<summary>Monkey</summary>
+
+![Monkey.png](assets/Monkey.png)
+
+</details>

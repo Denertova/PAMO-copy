@@ -13,6 +13,8 @@
 
         <activity android:name=".BMIActivity" />
         <activity android:name=".CaloriesActivity" />
+        <activity android:name=".BMIChartActivity" />
+        <activity android:name=".ShoppingListActivity" />
         <activity android:name=".MenuActivity" />
 
         <activity

@@ -11,6 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="48dp"
+        android:autofillHints="weight"
+        android:inputType="numberDecimal"
         android:padding="12dp"
         android:hint="@string/waga_kg" />
 
@@ -19,6 +21,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="48dp"
+        android:autofillHints="height"
+        android:inputType="numberDecimal"
         android:padding="12dp"
         android:hint="@string/wzrost_cm" />
 
@@ -27,6 +31,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="48dp"
+        android:autofillHints="age"
+        android:inputType="number"
         android:padding="12dp"
         android:hint="@string/wiek" />
 

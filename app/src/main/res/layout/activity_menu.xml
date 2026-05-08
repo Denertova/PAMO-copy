@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <LinearLayout
     android:orientation="vertical"
     android:gravity="center"
     android:layout_width="match_parent"
@@ -11,13 +11,25 @@
 
     <Button
         android:id="@+id/btnBMI"
-        android:text="BMI"
+        android:text="@string/bmi"
         android:layout_width="200dp"
         android:layout_height="wrap_content"/>
 
     <Button
         android:id="@+id/btnCalories"
-        android:text="Kalorie"
+        android:text="@string/calories"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnChart"
+        android:text="@string/bmi_chart"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnShoppingList"
+        android:text="@string/shopping_list"
         android:layout_width="200dp"
         android:layout_height="wrap_content"/>
 </LinearLayout>

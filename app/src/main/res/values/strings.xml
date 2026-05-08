@@ -6,6 +6,16 @@
     <string name="wiek">Wiek</string>
     <string name="go_to_menu">Go to Menu</string>
     <string name="health_app">Health App</string>
+    <string name="shopping_list_title">Lista Zakupów</string>
+    <string name="recipe_smoothie_bowl">Przepis: Miseczka ze Smoothie</string>
+    <string name="bmi_chart_title">Wykres zmian BMI</string>
+    <string name="bmi_chart_subtitle">Dane przykładowe: Zmiana wagi BMI przez 7 tygodni</string>
+    <string name="back_to_menu">Wróć do menu</string>
+    <string name="start">Start</string>
+    <string name="bmi">BMI</string>
+    <string name="calories">Kalorie</string>
+    <string name="bmi_chart">Wykres BMI</string>
+    <string name="shopping_list">Lista Zakupów</string>
     <string-array name="activity_levels">
         <item>Brak aktywności</item>
         <item>Lekka</item>

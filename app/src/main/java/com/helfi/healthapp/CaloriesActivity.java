@@ -34,16 +34,7 @@ public class CaloriesActivity extends AppCompatActivity {
                 double h = Double.parseDouble(height.getText().toString());
                 double a = Double.parseDouble(age.getText().toString());
 
-                double bmr = 88.36 + (13.4 * w) + (4.8 * h) - (5.7 * a);
-
-                double factor = 1.2;
-                switch (activity.getSelectedItemPosition()) {
-                    case 1: factor = 1.375; break;
-                    case 2: factor = 1.55; break;
-                    case 3: factor = 1.725; break;
-                }
-
-                double calories = bmr * factor;
+                double calories = CaloriesCalculator.calculateDailyCalories(w, h, a, activity.getSelectedItemPosition());
                 result.setText("Kalorie dzienne: " + (int) calories + " kcal");
 
             } catch (Exception e) {
